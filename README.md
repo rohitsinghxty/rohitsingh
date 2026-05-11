@@ -1,4 +1,4 @@
 # rohitsingh
-my first repository
+My First Repository
 <br>
 Auther-ROHIT SINGH
